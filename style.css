@@ -1,0 +1,81 @@
+    
+body {
+    padding: 1% ;
+    margin-top: 1%;
+  }
+  
+ .main{
+     background-color: black ;
+     width: 410px ;
+     color: white ;
+ }
+ .screen {
+    color: white;
+    font-size: 40px;
+    font-family: "Courier New", Courier, monospace;
+    text-align: right;
+    padding: 20px 5px;
+  }
+  
+  
+ .btn{
+      
+      height : 100px ;
+      width : 24.5% ;
+      border: none ;
+      background-color : #d8d9db ;
+      font-family : monospace ;
+      font-size: 40px ;
+      color : black ;
+      cursor: pointer ;
+  }
+
+
+.btn:hover {
+    background-color: #ebebeb;
+  }
+
+  .btn:active{
+    background-color: #bbbcbe;
+  }
+
+
+.c{
+   width : 49.7% ;
+}
+ 
+.zero{
+    width: 74.8% ;
+  }
+  
+.btn:last-child{
+    background-color: #df974c;
+    color: white;
+}
+
+
+.btn:last-child:hover {
+    background-color: #dfb07e;
+  }
+
+.btn:last-child:active{
+
+    background-color: #dd8d37;
+}
+
+.row{
+    display: flex ;
+    align-content : stretch;
+    justify-content: space-between ;
+    margin-bottom: 0.5% ;
+}
+  
+.row:last-child{
+
+    padding-bottom: 0 ;
+}
+
+*{
+      box-sizing: border-box ;
+      border-color: black ;
+  }
