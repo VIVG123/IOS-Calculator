@@ -1,0 +1,23 @@
+{
+  "name": "Project1",
+  "version": "1.0.0",
+  "description": "A simple IOS calculator",
+  "main": "animation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIVG123/IOS-Calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIVG123/IOS-Calculator/issues"
+  },
+  "homepage": "https://github.com/VIVG123/IOS-Calculator#readme",
+  "dependencies": {
+    "popmotion": "^9.0.2"
+  }
+}
